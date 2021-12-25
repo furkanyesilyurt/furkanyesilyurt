@@ -1,4 +1,4 @@
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/brunohbrito)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/furkanyesilyurt?cardType=level-alternate&theme=solarized-light)](https://git.io/awesome-stats-card)
 
 
 # Merhaba 👋, Ben Furkan Yeşilyurt! 
