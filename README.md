@@ -1,4 +1,6 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=furkanyesilyurt&show_icons=true">
+<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=furkanyesilyurt&show_icons=true"> -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkanyesilyurt)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # Merhaba 👋, Ben Furkan Yeşilyurt! 
 
