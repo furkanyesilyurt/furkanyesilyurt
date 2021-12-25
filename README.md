@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkanyesilyurt)](https://github.com/anuraghazra/github-readme-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/brunohbrito)](https://git.io/awesome-stats-card)
 
 
 # Merhaba 👋, Ben Furkan Yeşilyurt! 
